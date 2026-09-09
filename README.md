@@ -325,8 +325,7 @@ Training Program: Modern Data Engineering for AI Systems
 
 Organization: SDAIA Academy
 
-Cohort / Session: September 2026
-
+Cohort / Session: September 6, 2026 – September 10, 2026
 The project integrates concepts covered throughout the training program, including modern data engineering, real-time data pipelines, vector databases, advanced RAG engineering, orchestration, data quality, and data lineage.
 SDAIA Academy GitHub:
 
