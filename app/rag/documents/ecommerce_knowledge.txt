@@ -1,0 +1,46 @@
+E-Commerce Product and Policy Knowledge Base
+
+PRODUCT: Laptop
+Product ID: LAP-001
+Category: Electronics
+Price: 3500 SAR
+Description: A high-performance laptop suitable for business, study, programming, and everyday productivity.
+Stock Status: Available
+Warranty: 2 years
+Return Policy: The laptop can be returned within 14 days if it is unused and in its original condition.
+
+PRODUCT: Phone
+Product ID: PHN-001
+Category: Electronics
+Price: 2500 SAR
+Description: A modern smartphone suitable for communication, photography, applications, and everyday use.
+Stock Status: Available
+Warranty: 1 year
+Return Policy: The phone can be returned within 14 days if it is unused and in its original condition.
+
+PRODUCT: Tablet
+Product ID: TAB-001
+Category: Electronics
+Price: 1800 SAR
+Description: A lightweight tablet designed for browsing, studying, entertainment, and mobile productivity.
+Stock Status: Available
+Warranty: 1 year
+Return Policy: The tablet can be returned within 14 days if it is unused and in its original condition.
+
+ORDER POLICY
+Orders with quantity greater than zero are considered valid.
+Orders with a quantity of zero or a negative quantity are rejected during ingestion.
+Each order must have a valid order ID and customer ID.
+
+SHIPPING POLICY
+Standard shipping normally takes between 3 and 5 business days.
+Orders are processed after successful payment confirmation.
+Customers receive order status information after the order has been processed.
+
+CANCELLATION POLICY
+Pending orders can be cancelled before shipment.
+Completed or shipped orders cannot be cancelled directly and must follow the return policy.
+
+CUSTOMER SUPPORT
+Customers should provide their order ID when asking about a specific order.
+Product questions can include price, category, stock status, warranty, and return policy.
